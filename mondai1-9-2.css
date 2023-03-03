@@ -80,9 +80,9 @@ footer {
 
   .media {
     display: flex;
-    justify-content: center
-    ;
+    justify-content: center;
   }
+
   .step-box {
     width: 90%;
     margin-bottom: 20px;
